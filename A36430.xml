@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wherefore to prove the thing, otherwise as good as nothing what we say ...</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36430</idno>
+            <idno type="STC">Wing D2017</idno>
+            <idno type="STC">ESTC R40382</idno>
+            <idno type="EEBO-CITATION">18971451</idno>
+            <idno type="OCLC">ocm 18971451</idno>
+            <idno type="VID">108516</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36430)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108516)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1667:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Wherefore to prove the thing, otherwise as good as nothing what we say ...</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Lady Eleanor Douglas by Wing and NUC pre-1956 imprints.</note>
+                  <note>Date of publication suggested by NUC pre-1956 imprints.</note>
+                  <note>Error in paging: p. 1 misnumbered 3.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Prophecies.</term>
+               <term>Apocalyptic literature.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:108516:1"/>
+            <p>WHerefore to prove the thing, otherwiſe as good as no<g ref="char:EOLhyphen"/>thing what we ſay; but like ſaying and doing, which are two: concerning w<hi rend="sup">ch</hi> of more conſequence then ſuppoſed, even of thoſe three witneſſes in earth, what power indued withal, in relation to the three in the high Court of hea<g ref="char:EOLhyphen"/>ven <hi>(Joh. &amp;c.)</hi> they ſtiled Iudges of the Earth (to wit) the grave and pru<g ref="char:EOLhyphen"/>dent Barons of Exchequer; <hi>Et hi tres unum, &amp;c.</hi> Mr. Baron <hi>Trevare,</hi> the <hi>Ancient of days</hi> in his likeneſs; The ſe<g ref="char:EOLhyphen"/>cond like the Son of man, the azure clouds mixt his Foot-Carpet; The
+<pb n="2" facs="tcp:108516:2"/>third anſwerable to the Holy Ghoſts ſlow operation, <hi>PROPHESY</hi> for a time ceaſed, or like that ſaying of theirs, <hi>Have not ſo much as heard whe<g ref="char:EOLhyphen"/>ther any Holy Ghoſt,</hi> &amp;c. to whoſe Mi<g ref="char:EOLhyphen"/>niſtery committed the Myſtery of Times and Seaſons, by all the world derided, &amp;c. ſeveral days before whom this troubleſom tryal appearing of the Manor &amp; Rectory of <hi>Pyreton,</hi> by what indirect courſes &amp; ways taken, thereto the King intitled, by jugling Proje<g ref="char:EOLhyphen"/>ctors plots, an old Outlawry revived, cauſed hereby to ſtretch it ſelf out by their breathing into it, &amp;c. to over<g ref="char:EOLhyphen"/>throw a lawful Purchaſe and Ioyn<g ref="char:EOLhyphen"/>ture, after injoyed ſo many years, waiting their opportunity, the wi<g ref="char:EOLhyphen"/>dows Eſtate to cut it off, by ſuch trivial incumbrances ſifted forth:
+<pb n="3" facs="tcp:108516:2"/>the very Image of the Beaſt, <hi>Revel.</hi> 13. by the Great-Seal faced forth, onely paying His Majeſty about a Mark yearly; a coſtly purchaſe therein by his own officer for one born out.</p>
+            <p>Not unlike that diſpute about <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> body, between the Archangel and the other, reported by <hi>Jude,</hi> this Law point debated ſo often in open Court by the advantage taken of her impri<g ref="char:EOLhyphen"/>ſonment, got into poſſeſsion, ſo paſ<g ref="char:EOLhyphen"/>ſing from this to the Iudges charge for repairing this breach, appointed to ſtand in the gap, hereby to take off the Lords heavy hand from him, namely the King, by conjuring this Spirit down, raiſed up in his Name, the three kingdoms ſuffering for it, no leſs then for the ſin againſt the holy Ghoſt co<g ref="char:cmbAbbrStroke">̄</g>mitted, added thereto, forgi<g ref="char:EOLhyphen"/>ven
+<pb n="4" facs="tcp:108516:3"/>neither in this world nor the o<g ref="char:EOLhyphen"/>ther; witneſs the Archbiſhop for one gone to his proper place from Tower<g ref="char:EOLhyphen"/>hil: and yet delivered not for all ſo long in travel the aforeſaid Kingdoms, ſuch diſtraction witneſs continuing in Eccleſiaſtical and Civil affairs both.</p>
+            <p>No ordinary offence or treſpaſs for, but with a high hand, as not un<g ref="char:EOLhyphen"/>known to himſelf: That for her co<g ref="char:EOLhyphen"/>ming unto him not without manife<g ref="char:EOLhyphen"/>ſtation of a Commiſsion in that caſe: To give him a taſte of his judgement at hand, no leſs then the hand writing (<hi>Dan.</hi> 5.) ſerved on him in his galle<g ref="char:EOLhyphen"/>ry; immediately by a reference under his hand bearing date, 1633: <hi>Octob.</hi> &amp;c. <hi>Whitehal,</hi> committed for that cauſe the ſpace of two years a cloſe priſoner in the Gatehouſe, &amp;c. ſtript of all ever
+<pb n="5" facs="tcp:108516:3"/>ſince, a cup whereof himſelf ſince hath drunk the dregs, cannot deny it, This is the buſineſs that ſleeps not.</p>
+            <p>Howſoever he faln aſleep, like them bidden to ſleep on, &amp;c. ſhe though then, and ſince armed with no few ſad tokens of that kinde come to paſs on others no obſcure ones.</p>
+            <p>VVith this for another obſervation, her Ioynture the Manor of <hi>Englefield</hi> whileſt ſhe in the Gatehouſe, bought by the Marques of <hi>Wincheſter,</hi> how his of <hi>Baſing,</hi> ſuch an Example not the like, unluckey <hi>Babel</hi> Towers, how coſtly to widows and fatherleſs, now made to kiſs the ground.</p>
+            <p>All put upon his rekoning, in the Iſle of <hi>Wight,</hi> and impeached of trea<g ref="char:EOLhyphen"/>ſon in this kinde; as <hi>Whitehals</hi> deſola<g ref="char:EOLhyphen"/>tion too: no light thing; ſhewed
+<pb n="6" facs="tcp:108516:4"/>about their neck a meeter ornament what weight not unknown. Yet for making atonement in that caſe, for his Majeſties folly, now this ſuf<g ref="char:EOLhyphen"/>fices, like as when <hi>JOBS</hi> capti<g ref="char:EOLhyphen"/>vity ſaid to return, was appointed to pray for his three friends: So on the other ſide, the aforeſaid Iudges three to make his peace, to turn his Ca<g ref="char:EOLhyphen"/>ptivity away, fallen ſo low as hard to judge, whether expoſed to the dunghil, or the dungeons Slavery the greater or better Eſtate, unhappily by his own ſeeking hapned.</p>
+            <p>Nor his Name wiped out of this Record, once that a good Confeſsion made, afterward makes as bad an end lifting up the heel, as much as in him lay, like <hi>Balaam, loving the wages of unrighteouſneſs;</hi> his own Solicitor Ge<g ref="char:EOLhyphen"/>neral,
+<pb n="7" facs="tcp:108516:4"/>to this pacification ſuch an ad<g ref="char:EOLhyphen"/>verſary, wherein the general good alſo a copartner with this, of the widows cauſe which the Lord defends, and ſtands up for it.</p>
+            <p>In which, if any miſpriſion hath been ſince their judgement irreverſa<g ref="char:EOLhyphen"/>ble, may if they pleaſe, appoint the <hi>Amoveas Manus</hi> to be renewed, &amp;c. And with this belief concluding, <hi>Be<g ref="char:EOLhyphen"/>hold, I make all things new,</hi> including <hi>Lucifers</hi> Reſtauration, firſt and laſt of that Name, when the times of re<g ref="char:EOLhyphen"/>freſhing comes, morning and evening ſtar both; and his own Badge the ſtar born, its Motto too, <hi>How art thou faln, &amp;c.</hi> firſt of that Name, King <hi>Charls,</hi> and laſt of great Britains Kings, counſeld by her his <hi>Eve,</hi> or <hi>CHAVAH,</hi> alſo <hi>Adams</hi> figure, from
+<pb n="8" facs="tcp:108516:5"/>whoſe hands the Lord vouchſafes to accept ſatisfaction none, declared as afore, which coſt him his life, eaten by a Lyon, he ſent to cry <hi>O Altar,</hi> &amp;c. charged neither to eat bread, nor wa<g ref="char:EOLhyphen"/>ter to drink there, that kings arm which reſtored (<hi>Kin.</hi> 13.) ſo then learnd Iud<g ref="char:EOLhyphen"/>ges, to whom not unknown mercy af<g ref="char:EOLhyphen"/>terward, as well as <hi>judgement begins at home;</hi> your charge the ſubſtance or ſum of it, when <hi>Zions</hi> widow reſtor'd ſetled in her poſſeſsion, which makes ways for others, by your means, or<g ref="char:EOLhyphen"/>ders a mitigation for his diſcharge, ſo faſt in the Sea (as it were) about his neck a milſtone, &amp;c. every one in his order, even <hi>Sodoms</hi> inlargement, be<g ref="char:EOLhyphen"/>fore the return of <hi>Capernaums</hi> Capti<g ref="char:EOLhyphen"/>vity. <hi>Endleſs praiſe be to whom aſcribed.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Anno 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108516:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
